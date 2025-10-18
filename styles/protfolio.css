@@ -44,6 +44,28 @@
     font-size: 18px;
     color: #757575;
    }
+  
+   /* skills style */
+   .skill{
+    padding: 30px;
+    border-radius: 5px;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+   }
+   .skills-container{
+    display: flex;
+    gap: 24px;
+    
+   }
+   .skills{
+    text-align: center;
+   }
+   main section {
+   margin: 124px;
+   }
+   /* skill margin */
+   .margin{
+    margin-bottom: 40px;
+   }
    /* about */
    .about-items{
     display: flex;
@@ -61,7 +83,6 @@
    .about{
     border-radius: 10px;
     padding: 130px 150px;
-    margin-top: 124px;
     text-align: center;
    }
    /* main */
